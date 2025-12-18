@@ -1,1 +1,4 @@
 我测试得内容
+export default function aa() {
+    console.log("我的认真的内容是什么呢");
+}
